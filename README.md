@@ -1,2 +1,3 @@
-# author-community
-A repo for helping the community integrate with Author software.
+# Welcome, Software Authors!
+
+This repository is for users and integrators. 
